@@ -1,0 +1,24 @@
+{
+  "name": "rickandmorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parcel":"npm install -g parcel-bundler",
+    "start": "parcel index.html characters.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karhy259/RickAndMorty.git"
+  },
+  "author": "Karina Ospina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karhy259/RickAndMorty/issues"
+  },
+  "homepage": "https://github.com/karhy259/RickAndMorty#readme",
+  "devDependencies": {
+    "sass": "^1.21.0"
+  }
+}
